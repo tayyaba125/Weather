@@ -1,0 +1,35 @@
+#text{
+   padding-bottom: 1rem;
+   padding-top: 10rem;
+   font-style: inherit;
+   font-weight: bold;
+}
+#t-head{
+    background-color: black;
+    color: white;
+    font-size: xx-large;
+}
+.card-body{
+    font-size: large;
+   font-style: initial;
+}
+img{
+    width: 30px;
+
+}
+#t-text{
+    
+    font-style: oblique;
+}
+body{
+background-image: url(bg-3.webp);
+padding: 0;
+margin: 0;
+background-size: 100%;
+background-size: cover;
+background-position:  center;
+background-repeat: no-repeat;
+}
+#text-header{
+    margin-top: 50px;
+}
